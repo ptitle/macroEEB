@@ -5,6 +5,6 @@
 
   # ptitle's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[ptitle.github.io/macroEEB](https://ptitle.github.io/macroEEB)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
