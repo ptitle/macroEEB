@@ -1,9 +1,16 @@
 ---
 ---
 
-# ptitle's Website
+{% include section.html size="full" %}
 
-An engaging 1-3 sentence description of your lab.
+{% include figure.html image="images/molochBanner.jpg" width="100%" %}
+
+{% include section.html %}
+
+## The macroEEB Lab at Stony Brook University
+
+Welcome to the research group of Dr. Pascal Title in the Department of Ecology & Evolutionary Biology at Stony Brook University. 
+Welcome to the virtual home of the macroevolution and macroecology lab, in the Ecology & Evolutionary Biology Department at Stony Brook University. 
 
 {% include section.html %}
 

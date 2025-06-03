@@ -1,247 +1,237 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1111/gcb.70167
+  title: 'Chasing the Niche: Escaping Climate Change Threats in Place, Time, and Space'
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
-  authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Ranjan Muthukrishnan
+  - Tara M. Smiley
+  - Pascal O. Title
+  - Adam M. Fudickar
+  - Alex E. Jahn
+  - Jennifer A. Lau
+  publisher: Global Change Biology
+  date: '2025-04-01'
+  link: https://doi.org/g9mkw2
+  image: images/ChasingNiche_fig1.jpg
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+- id: doi:10.1093/evolinnean/kzaf006
+  title: "Adaptive radiation, \u2018taxon murk\u2019, and the reality of early burst\
+    \ speciation: an example from Australia\u2019s scincid lizards"
+  authors:
+  - Sonal Singhal
+  - Ivan Prates
+  - Huateng Huang
+  - Maggie R Grundler
+  - Alan R Lemmon
+  - Emily Moriarty Lemmon
+  - Pascal O Title
+  - Stephen C Donnellan
+  - Craig Moritz
+  - Daniel L Rabosky
+  publisher: Evolutionary Journal of the Linnean Society
+  date: '2025-01-01'
+  link: https://doi.org/g9mkw3
+  image: images/taxonMurk_fig1.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1126/science.adh2449
+  title: The macroevolutionary singularity of snakes
+  authors:
+  - Pascal O. Title
+  - Sonal Singhal
+  - Michael C. Grundler
+  - Gabriel C. Costa
+  - R. Alexander Pyron
+  - Timothy J. Colston
+  - Maggie R. Grundler
+  - Ivan Prates
+  - Natasha Stepanova
+  - Marc E. H. Jones
+  - Lucas B. Q. Cavalcanti
+  - Guarino R. Colli
+  - "Nicolas Di-Po\xEF"
+  - Stephen C. Donnellan
+  - Craig Moritz
+  - Daniel O. Mesquita
+  - Eric R. Pianka
+  - Stephen A. Smith
+  - Laurie J. Vitt
+  - Daniel L. Rabosky
+  publisher: Science
+  date: '2024-02-23'
+  link: https://doi.org/gtk7k7
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  - type: github
+    text: Data Repo
+    link: https://github.com/macroevolution/squamata
+  image: images/Science_snakes_fig1.jpg
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1002/ece3.9517
+  title: 'Deep ecomorphological and genetic divergence in Steller''s Jays (<i>Cyanocitta
+    stelleri</i>, Aves: Corvidae)'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Carla Cicero
+  - Nicholas A. Mason
+  - Zheng Oong
+  - Pascal O. Title
+  - Melissa E. Morales
+  - Kevin A. Feldheim
+  - Michelle S. Koo
+  - Rauri C. K. Bowie
+  publisher: Ecology and Evolution
+  date: '2022-11-30'
+  link: https://doi.org/g9mkw8
+  image: https://onlinelibrary.wiley.com/cms/asset/93d4ed58-6502-4481-aa17-5d56e21b9d8b/ece39517-fig-0001-m.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/2041-210X.13914
+  title: '<scp>EcoPhyloMapper</scp>: An <scp>r</scp> package for integrating geographical
+    ranges, phylogeny and morphology'
+  authors:
+  - Pascal O. Title
+  - Donald L. Swiderski
+  - Miriam L. Zelditch
+  publisher: Methods in Ecology and Evolution
+  date: '2022-06-25'
+  link: https://doi.org/gt255j
+  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/4a7dd8d0-0d62-4f9f-98d3-f8f3167de0dc/mee313914-fig-0001-m.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1525/elementa.2020.00132
+  title: What fosters the success of a transdisciplinary environmental research institute?
+    Reflections from an interdisciplinary research cohort
+  authors:
+  - Matthew Houser
+  - Abigail Sullivan
+  - Tara Smiley
+  - Ranjan Muthukrishnan
+  - Elizabeth Grennan Browning
+  - Adam Fudickar
+  - Pascal Title
+  - Jason Bertram
+  - Maria Whiteman
+  publisher: 'Elementa: Science of the Anthropocene'
+  date: '2021-01-01'
+  link: https://doi.org/g9mkw9
+  image: images/eri_logo.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/geb.13050
+  title: "Multi\u2010dimensional biodiversity hotspots and the future of taxonomic,\
+    \ ecological and phylogenetic diversity: A case study of North American rodents"
+  authors:
+  - Tara M. Smiley
+  - Pascal O. Title
+  - Miriam L. Zelditch
+  - Rebecca C. Terry
+  publisher: Global Ecology and Biogeography
+  date: '2020-01-10'
+  link: https://doi.org/gg537j
+  image: images/SmileyGEB_fig1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- title: Ecological interactions between arthropods and small vertebrates in a lowland
+    Amazon rainforest
+  type: paper
+  image: https://amphibian-reptile-conservation.org/images/Official%20ARC%20logo.jpg
+  authors:
+  - R. von May
+  - E. Biggi
+  - "H. C\xE1rdenas"
+  - M.I. Diaz
+  - "C. Alarc\xF3n"
+  - V. Herrera
+  - R. Santa-Cruz
+  - F. Tomasinelli
+  - E.P. Westeen
+  - "C.M. S\xE1nchez-Paredes"
+  - J.G. Larson
+  - P.O. Title
+  - M.R. Grundler
+  - M.C. Grundler
+  - A.R.D. Rabosky
+  - D.L. Rabosky
+  publisher: Amphibian & Reptile Conservation
+  date: '2019-01-01'
+  link: https://amphibian-reptile-conservation.org/pdfs/Volume/Vol_13_no_1/ARC_13_1_[General_Section]_65-77_e169_high_res.pdf
+  buttons:
+  - type: website
+    text: University of Michigan Press Release
+    link: https://news.umich.edu/u-m-biologists-capture-super-creepy-photos-of-amazon-spiders-making-meals-of-frogs-lizards-and-furry-mammals/
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/2041-210X.13153
+  title: 'Tip rates, phylogenies and diversification: What are we estimating, and
+    how good are the estimates?'
+  authors:
+  - Pascal O. Title
+  - Daniel L. Rabosky
+  publisher: Methods in Ecology and Evolution
+  date: '2019-02-11'
+  link: https://doi.org/gf9rwk
+  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/3e0be571-63d2-4e91-b16c-2e8fa605e728/mee313153-fig-0007-m.jpg
+  buttons:
+  - type: website
+    text: MEE blog post
+    link: https://methodsblog.com/2019/03/29/phylogenetic-tip-rates/
+  - type: website
+    text: featured in MEE virtual issue
+    link: https://besjournals.onlinelibrary.wiley.com/doi/toc/10.1111/(ISSN)2041-210X.PhylogeneticsMEE2019
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1086/699515
+  title: "Does Population Structure Predict the Rate of Speciation? A Comparative\
+    \ Test across Australia\u2019s Most Diverse Vertebrate Radiation"
+  authors:
+  - Sonal Singhal
+  - Huateng Huang
+  - Maggie R. Grundler
+  - "Mar\xEDa R. March\xE1n-Rivadeneira"
+  - Iris Holmes
+  - Pascal O. Title
+  - Stephen C. Donnellan
+  - Daniel L. Rabosky
+  publisher: The American Naturalist
+  date: '2018-10-01'
+  link: https://doi.org/gd9zd8
+  image: https://www.journals.uchicago.edu/cms/10.1086/699515/asset/images/large/fg1.jpeg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/s41586-018-0273-1
+  title: An inverse latitudinal gradient in speciation rate for marine fishes
+  authors:
+  - Daniel L. Rabosky
+  - Jonathan Chang
+  - Pascal O. Title
+  - Peter F. Cowman
+  - Lauren Sallan
+  - Matt Friedman
+  - Kristin Kaschner
+  - Cristina Garilao
+  - Thomas J. Near
+  - Marta Coll
+  - Michael E. Alfaro
+  publisher: Nature
+  date: '2018-07-01'
+  link: https://doi.org/gdsg93
+  image: images/Nature_fishLDG_fig3.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1098/rspb.2016.2588
+  title: Genetic diversity is largely unpredictable but scales with museum occurrences
+    in a species-rich clade of Australian lizards
+  authors:
+  - Sonal Singhal
+  - Huateng Huang
+  - Pascal O. Title
+  - Stephen C. Donnellan
+  - Iris Holmes
+  - Daniel L. Rabosky
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2017-05-03'
+  link: https://doi.org/gpf4km
+  image: images/Singhal_procB.jpg
   plugin: sources.py
   file: sources.yaml

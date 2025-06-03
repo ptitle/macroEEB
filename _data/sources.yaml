@@ -1,23 +1,64 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+- id: doi:10.1111/gcb.70167
+  image: images/ChasingNiche_fig1.jpg
+- id: doi:10.1093/evolinnean/kzaf006
+  image: images/taxonMurk_fig1.jpeg
+- id: doi:10.1126/science.adh2449
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+  - type: github
+    text: Data Repo
+    link: https://github.com/macroevolution/squamata
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  image: images/Science_snakes_fig1.jpg
+- id: doi:10.1002/ece3.9517
+  image: https://onlinelibrary.wiley.com/cms/asset/93d4ed58-6502-4481-aa17-5d56e21b9d8b/ece39517-fig-0001-m.jpg
+- id: doi:10.1111/2041-210X.13914
+  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/4a7dd8d0-0d62-4f9f-98d3-f8f3167de0dc/mee313914-fig-0001-m.jpg
+- id: doi:10.1525/elementa.2020.00132
+  image: images/eri_logo.jpg
+- id: doi:10.1111/geb.13050
+  image: images/SmileyGEB_fig1.jpg
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- title: Ecological interactions between arthropods and small vertebrates in a lowland Amazon rainforest
+  type: paper
+  image: https://amphibian-reptile-conservation.org/images/Official%20ARC%20logo.jpg
+  authors:
+    - R. von May
+    - E. Biggi
+    - H. Cárdenas
+    - M.I. Diaz
+    - C. Alarcón
+    - V. Herrera
+    - R. Santa-Cruz
+    - F. Tomasinelli
+    - E.P. Westeen
+    - C.M. Sánchez-Paredes
+    - J.G. Larson
+    - P.O. Title
+    - M.R. Grundler
+    - M.C. Grundler
+    - A.R.D. Rabosky
+    - D.L. Rabosky
+  publisher: Amphibian & Reptile Conservation
+  date: 2019-01-01
+  link: https://amphibian-reptile-conservation.org/pdfs/Volume/Vol_13_no_1/ARC_13_1_[General_Section]_65-77_e169_high_res.pdf
+  buttons:
+  - type: website
+    text: University of Michigan Press Release
+    link: https://news.umich.edu/u-m-biologists-capture-super-creepy-photos-of-amazon-spiders-making-meals-of-frogs-lizards-and-furry-mammals/
+
+- id: doi:10.1111/2041-210X.13153
+  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/3e0be571-63d2-4e91-b16c-2e8fa605e728/mee313153-fig-0007-m.jpg
+  buttons:
+  - type: website
+    text: MEE blog post
+    link: https://methodsblog.com/2019/03/29/phylogenetic-tip-rates/
+  - type: website
+    text: featured in MEE virtual issue
+    link: https://besjournals.onlinelibrary.wiley.com/doi/toc/10.1111/(ISSN)2041-210X.PhylogeneticsMEE2019
+
+- id: doi:10.1086/699515
+  image: https://www.journals.uchicago.edu/cms/10.1086/699515/asset/images/large/fg1.jpeg
+- id: doi:10.1038/s41586-018-0273-1
+  image: images/Nature_fishLDG_fig3.webp
+- id: doi:10.1098/rspb.2016.2588
+  image: images/Singhal_procB.jpg
