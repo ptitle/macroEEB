@@ -12,7 +12,7 @@
   publisher: Global Change Biology
   date: '2025-04-01'
   link: https://doi.org/g9mkw2
-  image: publications/images/ChasingNiche_fig1.jpg
+  image: publications/images/ChasingNiche_fig1_v2.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1093/evolinnean/kzaf006
