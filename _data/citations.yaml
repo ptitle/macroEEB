@@ -32,7 +32,7 @@
   publisher: Evolutionary Journal of the Linnean Society
   date: '2025-01-01'
   link: https://doi.org/g9mkw3
-  image: images/taxonMurk_fig1.jpeg
+  image: publications/images/taxonMurk_fig1.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1126/science.adh2449
@@ -65,7 +65,7 @@
   - type: github
     text: Data Repo
     link: https://github.com/macroevolution/squamata
-  image: images/Science_snakes_fig1.jpg
+  image: publications/images/Science_snakes_fig1.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ece3.9517
@@ -115,7 +115,7 @@
   publisher: 'Elementa: Science of the Anthropocene'
   date: '2021-01-01'
   link: https://doi.org/g9mkw9
-  image: images/eri_logo.jpg
+  image: publications/images/eri_logo.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/geb.13050
@@ -129,7 +129,7 @@
   publisher: Global Ecology and Biogeography
   date: '2020-01-10'
   link: https://doi.org/gg537j
-  image: images/SmileyGEB_fig1.jpg
+  image: publications/images/SmileyGEB_fig1.jpg
   plugin: sources.py
   file: sources.yaml
 - title: Ecological interactions between arthropods and small vertebrates in a lowland
@@ -216,7 +216,19 @@
   publisher: Nature
   date: '2018-07-01'
   link: https://doi.org/gdsg93
-  image: images/Nature_fishLDG_fig3.webp
+  image: publications/images/Nature_fishLDG_fig3.webp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/ecog.02880
+  title: 'ENVIREM: an expanded set of bioclimatic and topographic variables increases
+    flexibility and improves performance of ecological niche modeling'
+  authors:
+  - Pascal O. Title
+  - Jordan B. Bemmels
+  publisher: Ecography
+  date: '2017-04-04'
+  link: https://doi.org/gcxw4w
+  image: research/images/TWI_edited.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1098/rspb.2016.2588
@@ -232,6 +244,141 @@
   publisher: 'Proceedings of the Royal Society B: Biological Sciences'
   date: '2017-05-03'
   link: https://doi.org/gpf4km
-  image: images/Singhal_procB.jpg
+  image: publications/images/Singhal_procB.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/sysbio/syw102
+  title: Do Macrophylogenies Yield Stable Macroevolutionary Inferences? An Example
+    from Squamate Reptiles
+  authors:
+  - Pascal O. Title
+  - Daniel L. Rabosky
+  publisher: Systematic Biology
+  date: '2016-11-07'
+  link: https://doi.org/ggbrhb
+  image: publications/images/macrophyloFig.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/mec.13804
+  title: "Tests of species\u2010specific models reveal the importance of drought in\
+    \ postglacial range shifts of a Mediterranean\u2010climate tree: insights from\
+    \ integrative distributional, demographic and coalescent modelling and<scp>ABC</scp>model\
+    \ selection"
+  authors:
+  - Jordan B. Bemmels
+  - Pascal O. Title
+  - "Joaqu\xEDn Ortego"
+  - L. Lacey Knowles
+  publisher: Molecular Ecology
+  date: '2016-09-12'
+  link: https://doi.org/g9mnr8
+  image: https://onlinelibrary.wiley.com/cms/asset/74533c10-302a-4372-9729-4ffaf8eb53fe/mec13804-fig-0003-m.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1038/ncomms11484
+  title: Coral snakes predict the evolution of mimicry across New World snakes
+  authors:
+  - Alison R. Davis Rabosky
+  - Christian L. Cox
+  - Daniel L. Rabosky
+  - Pascal O. Title
+  - Iris A. Holmes
+  - Anat Feldman
+  - Jimmy A. McGuire
+  publisher: Nature Communications
+  date: '2016-05-05'
+  link: https://doi.org/f8kxcm
+  image: publications/images/coralSnakes.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/s10592-015-0796-z
+  title: "Conservation genomics reveals multiple evolutionary units within Bell\u2019\
+    s Vireo (Vireo bellii)"
+  authors:
+  - Luke B. Klicka
+  - Barbara E. Kus
+  - Pascal O. Title
+  - Kevin J. Burns
+  publisher: Conservation Genetics
+  date: '2015-11-25'
+  link: https://doi.org/f8ft7m
+  image: publications/images/bellsVireo.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1098/rspb.2014.2889
+  title: Minimal effects of latitude on present-day speciation rates in New World
+    birds
+  authors:
+  - Daniel L. Rabosky
+  - Pascal O. Title
+  - Huateng Huang
+  publisher: 'Proceedings of the Royal Society B: Biological Sciences'
+  date: '2015-06-22'
+  link: https://doi.org/g9mnr9
+  image: publications/images/birdLDG.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/ele.12422
+  title: Rates of climatic niche evolution are correlated with species richness in
+    a large and ecologically diverse radiation of songbirds
+  authors:
+  - Pascal O. Title
+  - Kevin J. Burns
+  publisher: Ecology Letters
+  date: '2015-03-23'
+  link: https://doi.org/f68xh2
+  image: research/images/tanagerFig.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.ympev.2014.02.006
+  title: 'Phylogenetics and diversification of tanagers (Passeriformes: Thraupidae),
+    the largest radiation of Neotropical songbirds'
+  authors:
+  - Kevin J. Burns
+  - Allison J. Shultz
+  - Pascal O. Title
+  - Nicholas A. Mason
+  - F. Keith Barker
+  - John Klicka
+  - Scott M. Lanyon
+  - Irby J. Lovette
+  publisher: Molecular Phylogenetics and Evolution
+  date: '2014-06-01'
+  link: https://doi.org/f5z565
+  image: publications/images/tanagers2014.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1111/2041-210x.12199
+  title: '<scp>BAMM</scp>tools: an R package for the analysis of evolutionary dynamics
+    on phylogenetic trees'
+  authors:
+  - Daniel L. Rabosky
+  - Michael Grundler
+  - Carlos Anderson
+  - Pascal Title
+  - Jeff J. Shi
+  - Joseph W. Brown
+  - Huateng Huang
+  - Joanna G. Larson
+  publisher: Methods in Ecology and Evolution
+  date: '2014-05-10'
+  link: https://doi.org/f6bb66
+  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/64acf6b0-1fc4-42d4-98b7-4a2cbd3e9d82/mee312199-fig-0001-m.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1642/auk-13-181.1
+  title: Genetic variation among western populations of the Horned Lark (<i>Eremophila
+    alpestris</i>) indicates recent colonization of the Channel Islands off southern
+    California, mainland-bound dispersal, and postglacial range shifts
+  authors:
+  - Nicholas A. Mason
+  - Pascal O. Title
+  - Carla Cicero
+  - Kevin J Burns
+  - Rauri C. K. Bowie
+  publisher: The Auk
+  date: '2014-04-01'
+  link: https://doi.org/f54dzd
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/auk/131/2/10.1642_AUK-13-181.1/5/i0004-8038-131-2-162-f05.jpeg?Expires=1755112638&Signature=1ssVqsP6oKoW2TFaRLsul2GHCatSJUJQi2AR96hXIb9D~ZJiBaOwiD8JzU6ROeNE5InN4XK42bE4tNTCesTPwhh7QDY1gZYTPSQzYzlionzi-g8HOAaTIaK-MGsX47pYqOXNrAJxtrJq1YElWrjGlIG4~uaLPJA0jh4QE6Oy-p~y9bhG2JzuHjH1L-g66U338lt~DdptKpct4WvdvHyXXh65Jbe6AGLXv-KPB7CkKMPfQlHbiFmtJzWyWLHZHtrNzA-3N~82QeWt4M4qEfW~PQ6VHc5mm1Olql9RRZXs~NuKybwI80Zhx5QgghdCoMFkzxF7E5kFOGj59ipwkluO8g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
   plugin: sources.py
   file: sources.yaml

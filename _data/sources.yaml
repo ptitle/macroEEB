@@ -1,22 +1,22 @@
 - id: doi:10.1111/gcb.70167
   image: images/ChasingNiche_fig1.jpg
 - id: doi:10.1093/evolinnean/kzaf006
-  image: images/taxonMurk_fig1.jpeg
+  image: publications/images/taxonMurk_fig1.jpeg
 - id: doi:10.1126/science.adh2449
   buttons:
   - type: github
     text: Data Repo
     link: https://github.com/macroevolution/squamata
 
-  image: images/Science_snakes_fig1.jpg
+  image: publications/images/Science_snakes_fig1.jpg
 - id: doi:10.1002/ece3.9517
   image: https://onlinelibrary.wiley.com/cms/asset/93d4ed58-6502-4481-aa17-5d56e21b9d8b/ece39517-fig-0001-m.jpg
 - id: doi:10.1111/2041-210X.13914
   image: https://besjournals.onlinelibrary.wiley.com/cms/asset/4a7dd8d0-0d62-4f9f-98d3-f8f3167de0dc/mee313914-fig-0001-m.jpg
 - id: doi:10.1525/elementa.2020.00132
-  image: images/eri_logo.jpg
+  image: publications/images/eri_logo.jpg
 - id: doi:10.1111/geb.13050
-  image: images/SmileyGEB_fig1.jpg
+  image: publications/images/SmileyGEB_fig1.jpg
 
 - title: Ecological interactions between arthropods and small vertebrates in a lowland Amazon rainforest
   type: paper
@@ -59,6 +59,34 @@
 - id: doi:10.1086/699515
   image: https://www.journals.uchicago.edu/cms/10.1086/699515/asset/images/large/fg1.jpeg
 - id: doi:10.1038/s41586-018-0273-1
-  image: images/Nature_fishLDG_fig3.webp
+  image: publications/images/Nature_fishLDG_fig3.webp
+- id: doi:10.1111/ecog.02880
+  image: research/images/TWI_edited.png
 - id: doi:10.1098/rspb.2016.2588
-  image: images/Singhal_procB.jpg
+  image: publications/images/Singhal_procB.jpg
+- id: doi:10.1093/sysbio/syw102
+  image: publications/images/macrophyloFig.png
+- id: doi:10.1111/mec.13804
+  image: https://onlinelibrary.wiley.com/cms/asset/74533c10-302a-4372-9729-4ffaf8eb53fe/mec13804-fig-0003-m.jpg
+- id: doi:10.1038/ncomms11484
+  image: publications/images/coralSnakes.png
+- id: doi:10.1007/s10592-015-0796-z
+  image: publications/images/bellsVireo.png
+- id: doi:10.1098/rspb.2014.2889
+  image: publications/images/birdLDG.jpg
+- id: doi:10.1111/ele.12422
+  image: research/images/tanagerFig.png
+- id: doi:10.1016/j.ympev.2014.02.006
+  image: publications/images/tanagers2014.jpg
+- id: doi:10.1111/2041-210x.12199
+  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/64acf6b0-1fc4-42d4-98b7-4a2cbd3e9d82/mee312199-fig-0001-m.jpg
+- id: doi:10.1642/auk-13-181.1
+  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/auk/131/2/10.1642_AUK-13-181.1/5/i0004-8038-131-2-162-f05.jpeg?Expires=1755112638&Signature=1ssVqsP6oKoW2TFaRLsul2GHCatSJUJQi2AR96hXIb9D~ZJiBaOwiD8JzU6ROeNE5InN4XK42bE4tNTCesTPwhh7QDY1gZYTPSQzYzlionzi-g8HOAaTIaK-MGsX47pYqOXNrAJxtrJq1YElWrjGlIG4~uaLPJA0jh4QE6Oy-p~y9bhG2JzuHjH1L-g66U338lt~DdptKpct4WvdvHyXXh65Jbe6AGLXv-KPB7CkKMPfQlHbiFmtJzWyWLHZHtrNzA-3N~82QeWt4M4qEfW~PQ6VHc5mm1Olql9RRZXs~NuKybwI80Zhx5QgghdCoMFkzxF7E5kFOGj59ipwkluO8g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+
+
+
+
+
+
+
+
