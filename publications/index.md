@@ -10,7 +10,7 @@ nav:
 {%
   include button.html
   type="google-scholar"
-  link="https://scholar.google.com/citations?hl=en&user=CQ_XeVIAAAAJ&view_op=list_works&sortby=pubdate"
+  link="CQ_XeVIAAAAJ&view_op=list_works&sortby=pubdate"
   icon="fa-brands fa-google"
   text="Google Scholar"
   tooltip=""
@@ -42,7 +42,7 @@ nav:
 {%
   include button.html
   type="orcid"
-  link="https://orcid.org/0000-0002-6316-0736"
+  link="0000-0002-6316-0736"
   flip=true
   style="bare"
 %}
