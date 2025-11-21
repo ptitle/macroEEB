@@ -65,7 +65,7 @@
   - type: github
     text: Data Repo
     link: https://github.com/macroevolution/squamata
-  image: publications/images/Science_snakes_fig1.jpg
+  image: publications/images/science.2024.383.issue-6685.largecover.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1002/ece3.9517
@@ -87,8 +87,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/2041-210X.13914
-  title: '<scp>EcoPhyloMapper</scp>: An <scp>r</scp> package for integrating geographical
-    ranges, phylogeny and morphology'
+  title: "<scp>EcoPhyloMapper</scp>\n                    : An\n                  \
+    \  <scp>r</scp>\n                    package for integrating geographical ranges,\
+    \ phylogeny and morphology"
   authors:
   - Pascal O. Title
   - Donald L. Swiderski
