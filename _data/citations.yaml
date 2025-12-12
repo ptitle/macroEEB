@@ -1,5 +1,18 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/sysbio/syaf086
+  title: An Evolving View of Lineage Diversification
+  authors:
+  - Pascal O Title
+  - "L Francisco Henao-D\xEDaz"
+  - Rosana Zenil-Ferguson
+  - Thais Vasconcelos
+  publisher: Systematic Biology
+  date: '2025-12-05'
+  link: https://doi.org/hbdxs4
+  image: publications/images/evolvingView_figure2.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1111/gcb.70167
   title: 'Chasing the Niche: Escaping Climate Change Threats in Place, Time, and Space'
   authors:
