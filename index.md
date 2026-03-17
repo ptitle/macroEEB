@@ -13,8 +13,8 @@ Welcome to the virtual home of the Macroevolution and Macroecology Lab, in the E
 
 {%
   include figure.html
-  image="images/Evolution2025.jpg"
-  caption="The macroEEB lab at the Evolution conference, 2025"
+  image="images/IMG_0249.jpeg"
+  caption="The macroEEB lab at our dept retreat, March 2026"
   width="600px"
 %}
 
