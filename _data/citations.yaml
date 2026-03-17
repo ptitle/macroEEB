@@ -110,7 +110,7 @@
   publisher: Methods in Ecology and Evolution
   date: '2022-06-25'
   link: https://doi.org/gt255j
-  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/4a7dd8d0-0d62-4f9f-98d3-f8f3167de0dc/mee313914-fig-0001-m.jpg
+  image: publications/images/epmFig.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1525/elementa.2020.00132
@@ -185,7 +185,7 @@
   publisher: Methods in Ecology and Evolution
   date: '2019-02-11'
   link: https://doi.org/gf9rwk
-  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/3e0be571-63d2-4e91-b16c-2e8fa605e728/mee313153-fig-0007-m.jpg
+  image: publications/images/tipRatesFig.jpg
   buttons:
   - type: website
     text: MEE blog post
@@ -210,7 +210,7 @@
   publisher: The American Naturalist
   date: '2018-10-01'
   link: https://doi.org/gd9zd8
-  image: https://www.journals.uchicago.edu/cms/10.1086/699515/asset/images/large/fg1.jpeg
+  image: publications/images/Singhal2018.jpeg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41586-018-0273-1
@@ -286,7 +286,7 @@
   publisher: Molecular Ecology
   date: '2016-09-12'
   link: https://doi.org/g9mnr8
-  image: https://onlinelibrary.wiley.com/cms/asset/74533c10-302a-4372-9729-4ffaf8eb53fe/mec13804-fig-0003-m.jpg
+  image: publications/images/oaks.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/ncomms11484
@@ -377,7 +377,7 @@
   publisher: Methods in Ecology and Evolution
   date: '2014-05-10'
   link: https://doi.org/f6bb66
-  image: https://besjournals.onlinelibrary.wiley.com/cms/asset/64acf6b0-1fc4-42d4-98b7-4a2cbd3e9d82/mee312199-fig-0001-m.jpg
+  image: publications/images/bammtools.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1642/auk-13-181.1
@@ -393,6 +393,6 @@
   publisher: The Auk
   date: '2014-04-01'
   link: https://doi.org/f54dzd
-  image: https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/auk/131/2/10.1642_AUK-13-181.1/5/i0004-8038-131-2-162-f05.jpeg?Expires=1755112638&Signature=1ssVqsP6oKoW2TFaRLsul2GHCatSJUJQi2AR96hXIb9D~ZJiBaOwiD8JzU6ROeNE5InN4XK42bE4tNTCesTPwhh7QDY1gZYTPSQzYzlionzi-g8HOAaTIaK-MGsX47pYqOXNrAJxtrJq1YElWrjGlIG4~uaLPJA0jh4QE6Oy-p~y9bhG2JzuHjH1L-g66U338lt~DdptKpct4WvdvHyXXh65Jbe6AGLXv-KPB7CkKMPfQlHbiFmtJzWyWLHZHtrNzA-3N~82QeWt4M4qEfW~PQ6VHc5mm1Olql9RRZXs~NuKybwI80Zhx5QgghdCoMFkzxF7E5kFOGj59ipwkluO8g__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+  image: /publications/images/hornedlarks.jpeg
   plugin: sources.py
   file: sources.yaml
