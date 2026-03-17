@@ -96,7 +96,7 @@
   publisher: Ecology and Evolution
   date: '2022-11-30'
   link: https://doi.org/g9mkw8
-  image: https://onlinelibrary.wiley.com/cms/asset/93d4ed58-6502-4481-aa17-5d56e21b9d8b/ece39517-fig-0001-m.jpg
+  image: publications/images/jays.jpg
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/2041-210X.13914
