@@ -20,4 +20,4 @@ Welcome to the virtual home of the Macroevolution and Macroecology Lab, in the E
 
 {% include section.html %}
 
-
+The lab logo has been produced by the talented Ken Naganawa. [You can find his website here](https://kennaganawa.com/). 
