@@ -66,7 +66,7 @@ Check out his [Google Scholar profile](https://scholar.google.com/citations?user
 {%
   include feature.html
   image="people/images/AnnaWilkinson2.jpeg"
-  text="Anna is from Atlanta, GA and earned her BS in Biology and Art History from William and Mary in 2024. She is interested in macroevolutionary trends in poisonous frog coloration, and is also passionate about the role of art and museums in communicating research."
+  text="Anna Wilkinson earned her B.S. in Biology and Art History from William and Mary. She has experience in botany, ichthyology, genetics, and invertebrate and vertebrate field research, as well as collections management. Her dissertation explores trait evolution and community assembly in Madagascar frogs. She is also passionate about integrating art and science and increasing accessibility of museum collections."
   flip=false
 %}
 

@@ -363,8 +363,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1111/2041-210x.12199
-  title: '<scp>BAMM</scp>tools: an R package for the analysis of evolutionary dynamics
-    on phylogenetic trees'
+  title: "<scp>BAMM</scp>\n                    tools: an R package for the analysis\
+    \ of evolutionary dynamics on phylogenetic trees"
   authors:
   - Daniel L. Rabosky
   - Michael Grundler
